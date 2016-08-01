@@ -41,3 +41,59 @@ body { width: 100%;}
 /********************************************
 * Your CSS rules go down here
 ********************************************/
+
+body {
+}
+h1{
+	margin-top:0;
+	padding-top:0;
+	padding-bottom: 5px;
+}
+.instructions{
+	border-style: solid;
+	border-width: 5px;
+	border-color: lightgray;
+	padding: 10px 10px 35px 20px;
+	margin-bottom: 20px;
+	height:100px;
+}
+.head{
+	background-color: lightskyblue;
+	width:100px;
+}
+.container{
+	width:950px;
+	margin:auto;
+}
+.sfooter-content{
+	font-family: sans-serif;
+	font-size: small;
+}
+.pull-left {
+	width:320px;
+	heigth:380px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: lightgray;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	float:left;
+}
+.star-trek{
+}
+.pull-right{
+	border-style: solid;
+	border-width: 5px;
+	border-color: lightgray;
+	float: right
+}
+.clear{
+	background-color: rgb(135, 206, 250);
+	padding:10px 12px 5px 12px;
+	margin-bottom: 20px;
+}
+.footer{
+	background-color: black;
+	color: darkgray;
+	font-size: smaller;
+}
